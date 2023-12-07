@@ -29,5 +29,5 @@ hide:
   <a class="contact-icon" target="_blank" href="https://scholar.google.com/citations?user=3BNbIzQAAAAJ"> <img style="float: center; margin-right: 20px" width="42" height="42" src="../../assets/googlescholar.png"></a>
   <a class="contact-icon" target="_blank" href="https://www.linkedin.com/in/joan-vendrell-gallart"> <img style="float: center; margin-right: 20px" width="50" height="50" src="../../assets/linkedin.png"></a>
   <a class="contact-icon" target="_blank" href="https://github.com/joanvend"> <img style="float: center; margin-right: 20px" width="50" height="50" src="../../assets/github.png"></a>
-  <a class="contact-icon" target="_blank" href="mailto:EMAIL"> <img style="float: center; margin-right: 20px" width="50" height="50" src="../../assets/mail.png"></a>
+  <a class="contact-icon" target="_blank" href="mailto:jvendrel@uci.edu"> <img style="float: center; margin-right: 20px" width="50" height="50" src="../../assets/mail.png"></a>
 </div>
