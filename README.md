@@ -1,4 +1,4 @@
-![ci](https://github.com/joanvend/academic-webpage/actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/joanvend/joanvendrell/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
 ![License](https://img.shields.io/github/followers/joanvend.svg?style=social&label=Follow&maxAge=2592000)
 
