@@ -1,0 +1,51 @@
+site_name: Joan Vendrell Gallart
+site_description: Joan Vendrell Gallart Academic Webpage
+site_author: Joan Vendrell Gallart
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)" # get system preference
+      primary: black
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" # get system preference
+      primary: black
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - toc:
+        collapse: true
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.path
+    - toc.integrate
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/joan-vendrell-gallart
+    - icon: fontawesome/brands/github 
+      link: https://github.com/joanvend
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: Copyright &copy; 2023 Joan Vendrell Gallart
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+
+nav:
+  - About me: 'index.md'
+  - Publications: 'publications/publications.md'
+  - Contact: 'contact/contact.md'
