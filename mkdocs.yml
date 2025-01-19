@@ -32,7 +32,7 @@ extra:
     - icon: fontawesome/brands/linkedin 
       link: https://www.linkedin.com/in/joan-vendrell-gallart
     - icon: fontawesome/brands/github 
-      link: https://github.com/joanvend
+      link: https://github.com/joanvendrell
 
 extra_css:
   - stylesheets/extra.css
