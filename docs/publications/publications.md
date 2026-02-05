@@ -113,3 +113,33 @@
       <button onclick="window.open('https://scholar.google.com/scholar?oi=bibs&cluster=12595531884511632409&btnI=1&hl=en','_blank')">URL</button>
       <button onclick="window.open('https://upcommons.upc.edu/bitstream/handle/2117/330935/2346-Fuzzy-clustering-application-on-failure-rate-prediction-in-Water-Distribution-Networks.pdf','_blank')">PDF</button>
     </div>
+
+
+## **2019-2020**
+
+---
+
+??? publication "Generative Adversarial Neural Networks for High-Frequency Stocks Prediction"
+
+    ### **Generative Adversarial Neural Networks for High-Frequency Stocks Prediction**
+    <div style="margin-bottom: 10px;">
+      J. Vendrell and C. Angulo-Bahon, **2019** *Bachelor's Thesis*, Intelligent Data Science and Artificial Intelligence Research Center, Barcelona, 2019.
+    </div>
+    <div class="img-text" style="align-items: center;">
+      <img style="float: left; margin-right: 10px" width="250" height="250" src="../../assets/hft.png">
+      <br clear="left"/>
+      <div style="text-align: justify">
+        In this work, we design a Generative Adversarial Neural Network to
+        predict high-frequency stocks from the market. The model integrates
+        a 1D Convolutional Neural Network as a generator and a Long-Short Term Memory
+        model as discriminator which tries to predict the behavior of an stock in
+        SP500 in the next microseconds. The work provides a detailed analysis of
+        the precision of the model in function of data latency also studying
+        distinct loss functions.
+      </div>
+    </div>
+    <br clear="left"/>
+    <div style="align-items: center; display: block; text-align: right;">
+      <button onclick="window.open('https://upcommons.upc.edu/entities/publication/c7a069b7-67d8-4eb1-a546-9d20fa4a9e3d','_blank')">URL</button>
+      <button onclick="window.open('https://upcommons.upc.edu/server/api/core/bitstreams/12f8bd7c-5352-40a4-880f-42033a6397e6/content','_blank')">PDF</button>
+    </div>
