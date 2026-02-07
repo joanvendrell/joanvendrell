@@ -48,12 +48,20 @@ hide:
   <img style="float: right; margin-right: 10px;" width="300" height="300" src="./assets/me.jfif" />
   <br clear="left"/>
   <div class="img-text-div" style="text-align: justify;"> 
-    I am Joan Vendrell Gallart and I am a PhD Candidate at University of California Irvine at <a href="https://solmaz.eng.uci.edu/group.html" target="_blank">Kia Cooperative Systems Lab</a>.
+    I am Joan Vendrell Gallart and I am a PhD Candidate at University of California Irvine in Machine Learning and Optimization at <a href="https://solmaz.eng.uci.edu/group.html" target="_blank">Kia Cooperative Systems Lab</a> and current fellow of Los Alamos National Laboratory working on URSA: The Universal Research and Scientific Agent. My interests and experience are based on Machine Learning, Agentic AI, Discrete Mathematics and Quantum Algorithms applied to Robotics and Multi-Agent systems in Cyber-Physical Constrained Environments, Hallucination Reduction in LLMs and Finance.
   </div>
 </div>
 <br clear="left"/>
 
 !!! news "News"
+    
+    **2026-01-12** - Our work on **Microgrids optimal radial reconfiguration via FORWARD algorithm** gets accepted at [IEEE American Control Conference New Orleans](https://arxiv.org/pdf/2511.03059){:target="_blank"}.
+   
+    **2025-10-10** - Our work on **FORWARD: Feasibility Oriented Random-Walk Inspired Algorithm for Radial Reconfiguration in Distribution Networks** gets accepted at [IEEE American Control Conference Denver](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11107625){:target="_blank"}.
+
+    **2025-07-12** - Our work on **ResQue Greedy: Rewiring Sequential Greedy for Improved Submodular Maximization** gets accepted at [IEEE 64th Conference on Decision and Control Rio de Janeiro](https://arxiv.org/pdf/2505.13670){:target="_blank"}.
+    
+    **2024-05-15** - Our work on **Optimality gap of decentralized submodular maximization under probabilistic communication** gets accepted at [IEEE 63th Conference on Decision and Control Milano](https://ieeexplore.ieee.org/abstract/document/10886660){:target="_blank"}.
 
     **2023-09-26** - I received the [UCI-LANL-SoCalHub Research Fellowship](https://socalhub.uci.edu/){:target="_blank"} to collaborate with [Los Alamos National Laboratory](https://lanl.gov/){:target="_blank"}. See more [here](https://engineering.uci.edu/news/2023/9/four-engineering-graduate-students-receive-research-fellowships-los-alamos-national){:target="_blank"}.
 
