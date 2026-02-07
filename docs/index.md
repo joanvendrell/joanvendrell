@@ -48,7 +48,7 @@ hide:
   <img style="float: right; margin-right: 10px;" width="300" height="300" src="./assets/me.jfif" />
   <br clear="left"/>
   <div class="img-text-div" style="text-align: justify;"> 
-    I am Joan Vendrell Gallart and I am a PhD Candidate at University of California Irvine in Machine Learning and Optimization at <a href="https://solmaz.eng.uci.edu/group.html" target="_blank">Kia Cooperative Systems Lab</a> and current fellow of Los Alamos National Laboratory working on URSA: The Universal Research and Scientific Agent. My interests and experience are based on Machine Learning, Agentic AI, Discrete Mathematics and Quantum Algorithms applied to Robotics and Multi-Agent systems in Cyber-Physical Constrained Environments, Hallucination Reduction in LLMs and Finance.
+    I am Joan Vendrell Gallart and I am a PhD Candidate at University of California Irvine in Machine Learning and Optimization at <a href="https://solmaz.eng.uci.edu/group.html" target="_blank">Kia Cooperative Systems Lab</a> and current fellow of Los Alamos National Laboratory working on URSA: The Universal Research and Scientific Agent. My interests and experience are based on Machine Learning, Agentic AI, Discrete Mathematics and Quantum Algorithms applied to Robotics and Multi-Agent systems in Cyber-Physical Constrained Environments, Hallucination Reduction in LLMs and Finance. Check my <a src="../../assets/CV.pdf" target="_blank">CV</a>.
   </div>
 </div>
 <br clear="left"/>
